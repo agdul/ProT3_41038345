@@ -1,0 +1,36 @@
+<<<<<<< HEAD
+
+# Hola buenas gracias por visitar mi codigo.<br>
+<h1 style='text-aline: center'>README!!</h1>
+
+PARA no tenes problemas, RENOMBRAR la carpeta bajada o zip a -> "ProT3". Con esto no les deberia saltar ningun problema.
+
+No se olviden de instar o insertar la base de datos. El archivo andiamo.sql es la base de datos.
+
+# bd-form-validaciones-ci4
+
+
+index -> http://localhost/ProT3/index<br>
+quienes somos -> http://localhost/ProT3/quienes_somos<br>
+acerca de -> http://localhost/ProT3/acerca_de<br>
+registro -> http://localhost/ProT3/registrate<br>
+login -> http://localhost/ProT3/login <br>
+
+Cuenta adm : 
+test_test@gmail.com
+pw : asdasd123
+
+User cuenta : 
+test@gmail.com
+pw : asdasd123
+
+
+-Desde ya muchas gracias. Hamm, Abdul
+
+
+
+
+=======
+# ProT3_41038345
+Talento Digitales Modulo 2 - Tramo 03
+>>>>>>> c2eb4d56fef60a33e0944b2346251e6685cfa0b4
