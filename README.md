@@ -25,8 +25,7 @@ La cuenta adm es unica, por lo tanto la unica forma de setear una adm nuevo es a
 Pueden crear usuario y navegar por la pag.
 Adm posee el crud de usuarion en el boton desplegale del navbar del administrador
 
--Desde ya muchas gracias. Hamm, Abdul
-
+-Desde ya muchas gracias.
 
 =======
 # Hamm, Abdul
